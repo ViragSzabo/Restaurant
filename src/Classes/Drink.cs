@@ -2,7 +2,14 @@
 
 public class Drink
 {
+
 	public Drink()
 	{
+
 	}
+
+	public bool isCocktail()
+    {
+		//
+    }
 }

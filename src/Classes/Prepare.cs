@@ -1,10 +1,10 @@
 ﻿using System;
 
-public class Cooking
+public class Prepare
 {
 	float state;
 
-	public Cooking()
+	public Prepare()
 	{
 		state = 0.0;
 	}
